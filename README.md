@@ -1,5 +1,5 @@
 # stereo sound to mono sound for Matlab
----
+that Code Used in education therefore you can change code is free   
 
 ## Setup
 Run `ChangeSound.m`
